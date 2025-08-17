@@ -60,6 +60,17 @@ namespace Exercicio119
             {
                 Console.WriteLine(person.ToString());        
             }
+
+            double sum = 0;
+
+            foreach (Person person in persons)
+            {
+                sum += person.Income();
+            }
+
+            Console.WriteLine();
+            
+            Console.WriteLine($"Total Taxes: $ {sum.ToString("F2", CultureInfo.InvariantCulture)}");
         }
     }
 }
