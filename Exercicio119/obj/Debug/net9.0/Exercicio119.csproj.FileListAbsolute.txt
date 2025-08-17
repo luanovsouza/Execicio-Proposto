@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\bin\Debug\net9.0\Exercicio119.exe
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\bin\Debug\net9.0\Exercicio119.deps.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\bin\Debug\net9.0\Exercicio119.runtimeconfig.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\bin\Debug\net9.0\Exercicio119.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\bin\Debug\net9.0\Exercicio119.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\obj\Debug\net9.0\Exercicio119.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\obj\Debug\net9.0\Exercicio119.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\obj\Debug\net9.0\Exercicio119.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\obj\Debug\net9.0\Exercicio119.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\obj\Debug\net9.0\Exercicio119.sourcelink.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\obj\Debug\net9.0\Exercicio119.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\obj\Debug\net9.0\refint\Exercicio119.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\obj\Debug\net9.0\Exercicio119.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\obj\Debug\net9.0\Exercicio119.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioPropostoAula119\Exercicio119\Exercicio119\obj\Debug\net9.0\ref\Exercicio119.dll

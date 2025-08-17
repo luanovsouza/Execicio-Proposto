@@ -1,11 +1,13 @@
-﻿namespace Exercicio119.Entities;
+﻿using System.Globalization;
+
+namespace Exercicio119.Entities;
 
 public  class Individual : Person
 {
     private double HealthSpending { get; set; }
     
     public Individual(string? name, double anualIncome, double healthSpending) 
-        : base(name, anualIncome, healthSpending)
+        : base(name, anualIncome)
     {
         HealthSpending = healthSpending;
     }
@@ -43,5 +45,10 @@ public  class Individual : Person
         }
 
         return sum;
+    }
+
+    public override string ToString()
+    {
+        return base.ToString() + Income().ToString("F2", CultureInfo.InvariantCulture);
     }
 }
