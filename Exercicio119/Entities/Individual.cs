@@ -21,14 +21,14 @@ public  class Individual : Person
         {
             double tax = 0.15;
 
-            sum += (AnualIncome * tax) + (HealthSpending * 0.5);
+            sum += (AnualIncome * tax) - (HealthSpending * 0.5);
         }
         
         else if (AnualIncome >= maxincome && HealthSpending > 0.0)
         {
             double tax = 0.25;
 
-            sum += (AnualIncome * tax) + (HealthSpending * 0.5);
+            sum += (AnualIncome * tax) - (HealthSpending * 0.5);
         }
         
         else if (AnualIncome <= maxincome)
@@ -45,10 +45,5 @@ public  class Individual : Person
         }
 
         return sum;
-    }
-
-    public override string ToString()
-    {
-        return base.ToString() + Income().ToString("F2", CultureInfo.InvariantCulture);
     }
 }

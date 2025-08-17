@@ -33,9 +33,4 @@ public class LegalEntity : Person
 
         return sum;
     }
-
-    public override string ToString()
-    {
-        return base.ToString() + Income().ToString("F2", CultureInfo.InvariantCulture);
-    }
 }

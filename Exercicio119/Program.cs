@@ -58,7 +58,7 @@ namespace Exercicio119
             
             foreach (Person person in persons)
             {
-                Console.WriteLine(person);        
+                Console.WriteLine(person.ToString());        
             }
         }
     }
